@@ -1,0 +1,1001 @@
+Customer_ID,Country,Region,State,City,Postal_Code
+69929.0 INR,USA,West,Ohio,,42077.0
+82375.0,USA,Central,California,,74011.0
+56827.0,USA,East,Illinois,New York,98907.0
+46270.0 INR,USA,South,Ohio,New York,48895.0 INR
+556.0,USA,South,Florida,Los Angeles,93188.0
+315.0,USA,Central,Illinois,Chicago,71888.0
+10948.0,USA,East,Ohio,Los Angeles,73284.0 INR
+24875.0,USA,,Texas,Columbus,40059.0
+33308.0,usa,central,Georgia  ,Atlanta,98247.0
+5608.0,USA,South,California,Atlanta,91766.0 INR
+60834.0,USA,,New York,Miami,63848.0
+69983.0,USA,Central,Georgia,Houston,32033.0
+83760.0,USA,Central,new york,chicago,18913.0
+19612.0 INR,USA,West,Texas,Miami,
+17181.0,USA,East,New York,Houston,17455.0
+1216.0,usa,West,Georgia,Los Angeles,75006.0
+78317.0,USA,Central,,houston,90362.0
+36747.0,USA,South,Florida,Miami,36081.0
+25113.0,USA,South,Illinois,Los Angeles,18800.0
+44516.0,USA,East,Illinois,Atlanta  ,57315.0
+30385.0,USA,,Georgia,Houston,33345.0
+61129.0,USA  ,Central,Ohio,Houston,90868.0
+48529.0,USA,Central,Texas,Los Angeles,20142.0
+37528.0,USA,South,California,Chicago,70913.0
+99330.0 INR,USA,East,Ohio,Seattle,22395.0
+76143.0 INR,USA,South,Georgia,Miami,45282.0
+35175.0,USA,Central,Illinois  ,Seattle,
+11355.0,USA,Central,Texas,Seattle  ,75740.0
+73119.0,usa,East,Florida,Miami,51896.0
+14021.0,,Central,Florida,Chicago,84997.0
+89224.0,USA,South,Illinois,Columbus,16450.0
+36046.0,USA,,georgia,Los Angeles,24832.0
+56607.0,USA,,California,Los Angeles,37775.0
+60775.0 INR,USA,West,Florida,New York,27997.0
+10094.0 INR,USA,East,California,Chicago,52294.0
+34013.0,USA,East,Florida,Seattle,75902.0
+24994.0,USA,South  ,New York,Columbus,94393.0
+87297.0,USA,Central,Texas,New York,44002.0
+,USA,East,Georgia,Miami,51534.0
+30299.0,USA,East,Florida,Chicago,77329.0
+77879.0,USA,Central,California,Los Angeles,68249.0
+24504.0,USA,West,new york,Seattle,43743.0
+15757.0,USA,South,Illinois,Seattle  ,58918.0 INR
+12678.0,USA,East,Illinois,Seattle,67068.0
+29546.0,USA,West,Florida,Miami,
+15322.0,USA,Central,Georgia,Chicago,26248.0 INR
+60396.0,USA,South,Florida,Los Angeles,69279.0
+65679.0 INR,USA,South,New York,Miami,66375.0
+99192.0,USA,West,Florida,Chicago,
+22784.0,USA,South,,Houston,69400.0
+53044.0,USA,West,California,Miami,93406.0
+16969.0,USA,East,California,Los Angeles  ,74122.0
+37583.0,USA,West,New York,Houston,45280.0
+31609.0,usa,Central,Georgia,Chicago,26248.0
+79874.0,USA,East,Georgia,New York,64230.0 INR
+95594.0,USA,,Texas,Miami,68652.0
+47005.0,USA,East,Texas,Chicago,92958.0
+79388.0,USA,East,Washington,Atlanta,25745.0
+95801.0,USA,Central,Ohio,Atlanta,12470.0
+27224.0,USA,,Florida,Seattle  ,71880.0
+88022.0,USA,South,New York,,89761.0
+13701.0 INR,USA,East,Washington,Atlanta,15017.0 INR
+90858.0,USA,South,Texas,Chicago,62435.0
+33677.0 INR,USA,Central,Florida,Atlanta  ,
+61625.0,USA,West,New York,Chicago,77976.0
+33815.0,USA,South,Washington,Seattle,38879.0 INR
+14197.0,USA,Central,Florida,Columbus,12296.0
+31381.0,USA,East,Illinois,Los Angeles,38780.0
+45055.0,USA,East,Washington,Miami,28844.0
+27824.0,USA,East,Ohio,Seattle,90396.0
+58577.0,USA,East,Texas,Seattle,
+84183.0,USA,West,Ohio,Los Angeles,22170.0
+82924.0,USA,West  ,Illinois,Los Angeles,19849.0
+511.0,USA,East,Washington,Atlanta,71536.0
+17260.0,USA,South,florida,Atlanta,94521.0
+40017.0,,South,Illinois,Houston,44771.0
+51776.0,USA,East,florida,Los Angeles,16840.0
+69634.0 INR,USA,East,Ohio,columbus,36145.0
+82623.0,USA,South,Washington,Columbus,78386.0
+57850.0,USA,Central,Georgia,Houston,32033.0
+68411.0,USA,west,Washington  ,Seattle,61633.0
+29839.0 INR,USA,South  ,California,Miami,
+1813.0,USA,Central,Ohio  ,Atlanta  ,12470.0
+54786.0,USA,West,,Chicago,77976.0
+27878.0,USA,East,Texas,Los Angeles,
+131.0 INR,USA,West,Georgia,Columbus,97142.0 INR
+34114.0,USA,Central,Texas,Houston,73254.0
+79717.0,USA,South,Illinois,Houston,43563.0
+,USA,East,Georgia,Chicago,45456.0
+12615.0,USA,South,Ohio,Seattle,55270.0
+74847.0 INR,USA,West,Texas,Miami,84041.0
+43698.0,USA,East,Washington,Los Angeles,17336.0
+89582.0,USA,South,Ohio,Chicago,67780.0 INR
+97995.0,USA,West,Ohio,Chicago,47350.0
+53319.0,USA,West,Texas,New York,46791.0
+32535.0,USA,South,New York,Miami,72941.0
+58973.0,USA,East  ,Florida,New York,66803.0
+68380.0,USA,Central  ,Georgia,houston,22032.0
+96613.0,USA,West,,chicago,86563.0 INR
+97975.0,USA,Central,California,Miami,71112.0
+74188.0,USA,East,Illinois,Chicago,89915.0
+,USA,South,Ohio,Miami,93040.0
+6332.0,USA,East,Illinois,Houston,57652.0
+93786.0,USA,East,Washington,,28775.0
+89599.0,USA,South,Florida,Atlanta,53917.0
+25448.0,USA,Central,Illinois,Columbus,70003.0
+69274.0,,East,Illinois,Seattle,62326.0
+35384.0,USA,East,Florida,Miami  ,51896.0
+43196.0 INR,USA,South,New York,,10772.0
+47070.0,USA  ,West,Texas,,40496.0
+65718.0,USA,Central,New York,Columbus,56170.0 INR
+3553.0,USA,East,New York,Columbus,74904.0
+80525.0,USA,South,Washington  ,Columbus,14229.0
+18043.0,USA,East  ,New York,Miami,
+91590.0,USA,south,Ohio  ,Los Angeles,35632.0
+91790.0,USA,East,Texas,Houston,22653.0
+62063.0,USA,West,Ohio,Los Angeles  ,42077.0
+15199.0,USA,South,California,New York,28693.0 INR
+,USA,East,California,New York,36878.0
+,USA,South,Ohio,atlanta,67106.0
+26961.0,USA,,California,Houston,18345.0
+75766.0,USA,South,Illinois,Chicago,21016.0
+74764.0,usa,West,California,Chicago,84304.0
+82716.0,USA,Central,New York,miami,44410.0
+81781.0,USA  ,South,California,Miami,70810.0
+16559.0,USA  ,West  ,Florida,New York,
+46168.0,USA,West,,Seattle,83445.0
+70154.0,USA,,New York,Atlanta,15987.0
+,USA,East,Texas,Atlanta,28325.0
+70204.0,USA  ,,Ohio,,89589.0
+,USA,West,New York,Houston  ,48252.0
+82497.0 INR,usa,West,Florida,Atlanta  ,70204.0
+,USA,South,Georgia,Columbus,88360.0
+72919.0,USA,West,california,Chicago,84304.0
+43176.0,USA,Central,Washington,Miami,63900.0 INR
+91485.0 INR,USA,Central,Washington,Atlanta,95890.0
+29277.0,USA,South,New York,Los Angeles,11776.0
+13912.0,usa,South,Ohio,Chicago,17165.0
+22192.0,USA,East,Illinois,,49316.0 INR
+89272.0,USA,East,Florida,Columbus,39504.0
+21817.0,USA,East,Washington,Houston,14212.0
+68094.0,USA,Central,,Houston,45867.0
+26826.0,USA,East,New York,Chicago,85377.0
+52816.0,USA,South,Illinois,Houston,43563.0
+95593.0,usa,South,New York  ,Seattle,37423.0
+13004.0,USA,West,Georgia,Seattle,12553.0 INR
+79053.0,USA,,Georgia,Columbus,53785.0
+,,South,Washington,Atlanta,69151.0
+15.0,USA,South,New York,New York,77143.0
+29700.0,USA,South,texas,Miami,98842.0
+36489.0 INR,,East,Washington,,71536.0
+86904.0,USA  ,East,Illinois,Houston,23579.0
+89373.0,USA,Central,Georgia,Los Angeles,45381.0
+40144.0,USA,Central,Georgia,Seattle,65744.0
+51828.0,USA,Central,New York,Chicago,29401.0
+32239.0,USA,South,Washington,New York,91748.0 INR
+73.0,USA,Central,Texas,,
+48097.0,USA,East,Washington,seattle,83473.0
+99549.0,USA,South,,,89760.0
+91826.0,USA,East,California,Columbus,18645.0
+28832.0,USA,South,Texas,Chicago,56365.0
+76898.0,USA,Central,Ohio,Los Angeles,49103.0
+41849.0,USA,,Texas,Atlanta,28325.0
+15552.0,USA,West,Texas,Chicago,72320.0
+29322.0 INR,USA,West,New York,miami,57683.0
+10691.0,USA,South,New York,Chicago,19570.0
+48299.0,USA,West,Georgia,Chicago,81707.0
+56106.0,USA,East,Illinois,Columbus,34077.0
+2855.0,USA,Central,,Columbus,12296.0
+29409.0,USA,Central,Washington,Atlanta,74985.0
+71321.0,USA  ,East,Texas,,55104.0
+62809.0,USA,East,New York,Seattle,15646.0
+95792.0,USA,Central  ,Texas,Miami,96032.0
+29257.0,USA,South,Florida,Chicago,28769.0
+17874.0,USA,Central,Washington,Seattle,89621.0
+61159.0,USA,Central,Washington  ,New York,63370.0
+68425.0 INR,USA,West,California,Seattle,92984.0
+44554.0,USA,East,Ohio,Atlanta,84273.0
+57532.0,USA,Central,California,Los Angeles,63543.0
+45385.0,USA,East,Illinois,Los Angeles,45405.0
+82854.0,USA,West,Florida,Columbus,59668.0
+53302.0,USA,South,Ohio,New York,48895.0
+2554.0,USA,South,Washington,Chicago,21855.0 INR
+49422.0,USA,,New York,Miami,57683.0
+60117.0,USA,Central,Georgia,Columbus,15756.0
+81597.0,USA,West  ,Florida,Atlanta,70204.0
+75831.0,USA,Central,New York,Atlanta,90969.0
+28936.0,USA,East,Texas,New York,87798.0
+2987.0,USA,Central,New York,Los Angeles,74175.0
+98218.0 INR,usa,Central,Illinois,Los Angeles,67443.0
+17757.0,USA,Central,Florida,los angeles,68904.0
+,USA,West,New York,Miami,90264.0
+69581.0,,South,Ohio,New York,48895.0
+2601.0,USA,,Georgia,Columbus,36035.0
+57020.0 INR,USA,East,new york,Los Angeles,75732.0
+98195.0,USA,West,Ohio,Los Angeles,22711.0
+63567.0,USA,Central,Texas,New York,11231.0
+98983.0,usa,West,California,New York,41077.0
+85277.0,USA,East,Texas,Los Angeles,78134.0
+10698.0 INR,USA,East,New York,Houston,85707.0
+52169.0,USA,Central,Florida,Los Angeles,89599.0
+93906.0,USA,South,California,Los Angeles,72349.0
+98804.0,USA,South,California,Miami,70810.0
+45975.0,USA,West,Illinois,Chicago,49489.0
+71531.0,USA,West,New York,Columbus,40423.0
+39421.0,USA,West,California,,92984.0
+18564.0,USA,West,California,Chicago,19077.0
+43252.0,USA,South,Texas,Atlanta,92920.0
+11499.0,USA,West,New York,Chicago,57873.0
+60358.0,USA,South,Texas,Columbus,61249.0
+2559.0,USA,South,Ohio,houston,42780.0
+15024.0,USA,West,Texas,Los Angeles,83727.0 INR
+92331.0,usa,Central,Illinois  ,miami,17784.0
+73964.0,USA,Central,Washington,Atlanta,67168.0
+20940.0,USA,East,Texas,Atlanta,76752.0 INR
+59126.0,USA,West,Georgia,Miami,71428.0
+24087.0,USA,South,Ohio,Houston,48535.0
+34175.0,USA,South,,New York,39521.0
+57577.0,USA,Central,Georgia,Atlanta,13875.0
+81221.0,USA,,Texas,Chicago,60465.0
+72974.0,usa,,Florida,Seattle,57227.0
+39042.0,USA,East,Florida,Atlanta,89327.0
+93474.0,USA  ,West,Illinois,Miami,93479.0
+,USA,East,New York,Los Angeles,75732.0
+7164.0,USA,East,California,Seattle,26554.0
+95904.0,USA,South,California,New York,38655.0
+76046.0,USA,East,Texas,Los Angeles,78134.0
+11006.0,USA  ,South,Texas,Chicago,
+32751.0 INR,USA  ,East,New York,Seattle,28051.0 INR
+572.0 INR,USA,South,Ohio,Miami,33186.0
+94846.0,USA,South,Florida,New York,88555.0
+88314.0,USA,South,Illinois,Houston,11787.0
+86648.0,USA,Central,Texas  ,Columbus,83464.0
+1362.0,USA,South,Florida,Los Angeles,56135.0
+38510.0,USA,West,California,Columbus  ,44521.0
+26720.0,USA,east,Texas,Seattle,25937.0
+96690.0,USA,Central,Illinois,Columbus,17969.0
+94371.0,USA,South,,Miami,95460.0
+95686.0,USA,Central,Texas,New York,52132.0
+92294.0,USA,,Georgia,Seattle,99463.0
+32177.0,USA,West,New York,Atlanta,
+61611.0,USA,South,Georgia,Columbus,36035.0
+19985.0,USA,South,new york,Columbus,73837.0 INR
+15478.0,USA,South,Texas,Atlanta,92920.0
+65627.0,USA,West,Texas,Seattle,
+39090.0 INR,USA,East,Texas,Atlanta,28325.0
+43186.0,USA,South,Texas,Atlanta,92920.0
+72442.0,USA,South,Florida,New York  ,32815.0
+36307.0,USA,South,New York,Columbus,58717.0 INR
+94631.0,USA,East,Texas,Columbus,38869.0
+73393.0,,Central,New York,Chicago,65234.0
+30020.0,USA,Central,Texas  ,Chicago,29205.0
+42802.0,usa,Central,Georgia,Seattle,91515.0
+13927.0,USA,South,Texas,Chicago,23122.0
+78650.0,USA,West,Georgia,Seattle  ,14121.0
+46626.0,USA,South,Florida  ,Houston,98932.0
+40966.0 INR,USA,West,Ohio,New York,85965.0
+11091.0 INR,USA,South,Texas,houston,81659.0
+86961.0,USA,Central,Texas,Columbus,29689.0
+64295.0,USA,South,,seattle,14103.0
+87588.0,USA,South,Georgia,Miami,44809.0
+5963.0,USA,Central,California,Los Angeles,75367.0
+94341.0,USA,South,,Chicago,43666.0
+13720.0,USA,West,Texas,Atlanta,12033.0
+66416.0,USA,Central,Florida,Los Angeles,81994.0
+26429.0,usa,East,Georgia,New York,51187.0
+17328.0,USA,West,New York,new york,28184.0
+8674.0,USA,East,Washington,Miami  ,19999.0
+96500.0,USA,west,California,Atlanta,53389.0
+37320.0,USA,East,California,Chicago,77305.0
+50474.0,USA,West,New York,Atlanta,51195.0
+29920.0,USA  ,East,Texas,Columbus,73463.0
+58767.0 INR,USA,South,California,Miami,37349.0
+75891.0 INR,USA,South,Georgia,Seattle,11195.0
+47186.0,USA,central,Georgia,Houston,22054.0
+34671.0,USA,South,Washington,Chicago  ,23033.0 INR
+26120.0,usa,West,Illinois,Seattle,33800.0
+97729.0,USA,West,Washington,Seattle,54770.0 INR
+48563.0,USA,East,California,Atlanta,44478.0
+63012.0,USA,West,New York,Chicago,57873.0 INR
+2734.0,USA,East,Texas,Columbus,73463.0
+99644.0,USA,South,Florida  ,New York,32815.0
+66150.0,USA,South,Ohio,Los Angeles,35632.0 INR
+81333.0,usa,Central,Georgia,Chicago,85637.0 INR
+16449.0,USA,South,Georgia,Chicago,43955.0 INR
+17792.0,USA,South,Georgia  ,Columbus,19222.0 INR
+87541.0,USA,South,Washington,Seattle,73691.0
+6885.0,USA,East,New York,Atlanta,15987.0
+52575.0,USA,South,Texas,Columbus,69777.0
+48270.0,USA,South,Texas,Chicago,49158.0
+3252.0,USA,West,California,Seattle,64997.0
+42440.0,USA,South,Ohio,Miami,28116.0
+23484.0,USA,East,Illinois,Los Angeles,45405.0 INR
+7526.0,USA,South,Washington,Miami,82273.0
+58439.0,USA,South,Illinois,Miami,27739.0
+4921.0,USA,west,Washington,Columbus,17774.0
+35394.0,usa,West,Florida,Chicago,34752.0
+16638.0,USA,South,California,Los Angeles,33033.0
+8323.0,USA,Central,California,Houston,39468.0
+66449.0,USA,West,New York,Chicago,57873.0
+4850.0,USA,West,Ohio,Miami,33462.0 INR
+82588.0,USA,West,Illinois,Los Angeles,32806.0 INR
+77162.0 INR,usa,South,New York,Seattle,14103.0
+85331.0,USA,East,washington,houston,91293.0
+8656.0,USA,Central,New York,Houston,58608.0
+80891.0,USA,South,New York,Houston,40413.0
+27699.0,USA,West,New York,Columbus,80035.0
+12762.0,USA,East,California,Columbus,39127.0
+56302.0,USA,East,Illinois,Columbus,78044.0
+57671.0,,Central,Florida,Houston,54974.0
+26532.0,USA,East,new york,Miami,92927.0
+45126.0 INR,usa,Central,Florida  ,Miami,92611.0
+91280.0 INR,USA,East,Texas,Columbus,38869.0
+38191.0,USA,,Georgia,Columbus,62341.0
+55839.0,USA,South,Florida,Seattle,31565.0
+41132.0,USA,West,California,Chicago,37477.0
+54049.0,USA,South,Georgia,Columbus,88360.0 INR
+70081.0,USA,West,Florida,Atlanta,73307.0
+57659.0 INR,USA,West,Florida,new york,35249.0
+43757.0,USA,South,Ohio,New York,49708.0
+92661.0,USA,East,Florida,Seattle,72154.0
+58499.0,USA,South,new york,Seattle,14467.0
+63821.0,USA,,Ohio,los angeles,28426.0
+73015.0,USA,Central,Florida,Houston,54974.0 INR
+57095.0,USA,South,Washington,Los Angeles,48630.0
+94531.0,USA,East,Washington  ,houston,82311.0
+55942.0,USA,South,California,Atlanta,35873.0
+89309.0 INR,USA,West,Florida,Houston,69745.0 INR
+19342.0,USA,East  ,New York,Chicago,85377.0
+7552.0,USA,,Washington,Columbus,54231.0
+55226.0,USA,,New York,Columbus,80035.0
+63583.0,USA,West,California,Chicago,84304.0
+79832.0,USA,West,New York,Seattle,82348.0
+86912.0,USA,Central,California,Columbus,99408.0
+17569.0,USA,East,Georgia,Chicago,88830.0
+36092.0 INR,USA,Central,California,Los Angeles,75367.0
+23910.0,USA,South,New York,Houston,40413.0
+89644.0,USA,East,Illinois,New York,74011.0
+,,South,Texas,Columbus,56490.0
+59355.0,USA,South,Georgia,Houston,21107.0
+59631.0,USA,East,Washington,New York,94832.0
+80128.0,USA,South,New York,Columbus,58717.0
+63881.0,USA,Central  ,Washington,Atlanta  ,
+61551.0,USA,Central,New York,Seattle  ,73636.0
+84457.0,USA,Central,Ohio,New York,81213.0
+943.0,USA,South,Florida,Houston,96824.0 INR
+27451.0,USA,Central,New York,Columbus,
+27607.0,USA  ,East,New York,Seattle,28051.0
+80693.0,USA,East,Florida,Houston,46941.0
+19808.0,USA,East,New York,Chicago,59074.0
+46425.0,USA,South,Florida,Houston,64811.0
+93172.0,USA,Central,,,45381.0
+92694.0,USA,East,Washington,,36978.0
+77136.0,USA,South,Georgia,Los Angeles,96060.0
+9228.0,USA,Central,Texas  ,Chicago,62575.0
+71840.0 INR,USA,West,Florida,Columbus,72599.0
+20332.0,USA,East,,Chicago,98894.0
+74733.0,USA,East  ,Georgia,Houston,71940.0
+49878.0,USA,South,California,Los Angeles,41061.0
+23171.0,USA,South,Texas,Columbus,65945.0
+81778.0,USA,Central,New York,Houston,58608.0
+46664.0,USA,East,Illinois,Atlanta  ,49316.0
+7016.0,USA,South,Georgia,New York,46007.0 INR
+95676.0,USA,South,Ohio,Seattle,66299.0
+6574.0,USA,West,California,Columbus,86042.0
+92125.0,USA,south,Florida,Los Angeles  ,51587.0
+9348.0,USA,South,New York,Columbus,58717.0
+13896.0,USA,West,Ohio,Los Angeles,22170.0
+15717.0,USA,West,Florida,New York,
+84900.0,USA,South,Georgia,Columbus  ,88360.0
+73573.0,USA,South,Ohio,New York,62963.0
+7005.0,USA,Central,Illinois,Columbus,70003.0 INR
+65800.0,USA,South,Ohio,Atlanta,15821.0
+,USA,South,Florida,Atlanta,94521.0
+66880.0,USA,East,Ohio,New York,27111.0
+1044.0,USA,Central,California,Houston,43844.0
+93187.0,USA,East,georgia,Columbus,71833.0
+17996.0,USA,West,Illinois,Houston,49705.0
+94663.0,USA,East,Washington,Atlanta,71536.0
+59396.0,USA,West,Texas,New York,40496.0
+23954.0,USA,East  ,New York,Chicago,95964.0
+59922.0 INR,USA,East,Ohio  ,Miami,94645.0
+58247.0 INR,USA,Central,Texas,Chicago,60465.0 INR
+,USA,west,Florida,New York,72566.0
+82100.0,USA,West,Washington,Seattle  ,61633.0
+23019.0 INR,USA,East,Washington,Houston,82311.0
+86681.0,usa,South,Ohio,Los Angeles,35632.0
+77885.0,USA,East,Georgia,Los Angeles  ,37563.0
+80073.0 INR,usa,East,texas,Miami,64118.0 INR
+,USA,South,Georgia,Miami,95460.0 INR
+84684.0,USA,West,Georgia,Atlanta,46771.0
+32779.0,USA,East,Florida,Chicago,99438.0
+12500.0,USA,East,Texas,New York,
+92102.0,USA,west,Illinois,Columbus,34173.0
+26391.0,USA,East,New York,chicago,67482.0
+1861.0,USA,East,,Columbus,39127.0
+61231.0,USA,central,Florida,Los Angeles,55527.0
+61681.0,USA,South,Georgia,Seattle,21385.0
+64929.0,USA,East,Illinois,New York,39710.0
+49587.0,USA,Central,Florida,Chicago,65450.0
+21438.0,USA,east,Florida,Miami,87526.0
+96945.0,USA,West,New York,Miami,28161.0 INR
+34432.0,USA,West,New York,Miami,90264.0
+43512.0 INR,USA,Central,Ohio,Chicago,80310.0
+13123.0,USA,East,Ohio,Seattle,92081.0
+42285.0,USA,South,Ohio,Miami,33186.0
+99774.0,USA,Central,Texas,Miami,53450.0
+,USA,West,New York,Seattle  ,86922.0
+49070.0,USA,West,Texas,Houston,96403.0
+19789.0 INR,USA,East,washington,Houston,14212.0
+14774.0 INR,USA,South,Ohio,Columbus,23115.0
+7071.0,USA,Central,Washington,Atlanta  ,74985.0
+41974.0,USA,Central,Washington,Seattle,79755.0
+53080.0,USA,South,New York,Chicago,19570.0
+24480.0,USA,Central,Georgia,Seattle,24553.0
+42848.0,,West,California,Houston,20101.0
+57805.0,USA  ,West,Washington,Miami,56390.0
+4592.0,USA,Central,New York,,73636.0
+61506.0,USA,South,Washington,Seattle,51574.0
+8118.0,,South,Florida,chicago,48745.0
+54278.0,USA,South,Washington,Chicago,21855.0
+6359.0,USA,East,Ohio,Los Angeles,73284.0
+54009.0,USA,West,Texas,Columbus,40059.0
+25045.0,USA,east,Ohio,Seattle,43039.0
+90407.0,USA,East,California,Los Angeles,76127.0
+,USA,West,Florida,Miami  ,70225.0
+40783.0,USA,South,Washington,Seattle,39794.0
+,USA,East,New York,New York,23476.0
+30712.0,usa,South  ,Florida,new york,23282.0
+57621.0,USA,West,Texas,Miami,68652.0
+,USA,Central,Georgia,Seattle,65744.0
+30140.0 INR,USA,West,New York,Chicago,28571.0
+30529.0,,East,Washington,Columbus,25631.0 INR
+66723.0,USA,West,Washington,Chicago,84060.0
+10238.0,USA  ,South,California,Los Angeles,33033.0 INR
+13202.0,USA,South,Ohio,Miami,49227.0
+95942.0,USA,South,Florida,Seattle,
+72113.0,USA,South,Georgia,Los Angeles,96060.0
+15009.0,,south,California,Atlanta  ,35873.0
+60014.0,USA,West,New York,Columbus,
+90075.0,USA,Central  ,New York,Seattle,73636.0
+28891.0,USA,Central,New York,Atlanta,90969.0
+20960.0,USA,West,Ohio,Columbus,47359.0
+57627.0,USA,Central  ,Texas,New York,11231.0 INR
+68554.0,USA,West,Texas,Los Angeles,
+80127.0,USA,East,Georgia,Los Angeles,25238.0 INR
+97677.0,USA  ,South,New York,Miami,47568.0
+89058.0,USA,Central,Georgia,Miami,53815.0
+70695.0,USA,Central,Florida,Columbus,15060.0
+88571.0,USA,East,New York,Miami,57298.0
+79507.0,USA,East,California,Los Angeles,76127.0
+84774.0,USA,East,California,,76127.0
+28794.0,USA,South,Ohio,Miami,49227.0
+72328.0,USA,South,Ohio,Miami,93040.0
+80582.0 INR,USA,east,New York,New York,26688.0
+20930.0,USA,West,Texas,,57850.0
+90761.0 INR,USA,South,Florida,Houston,61222.0
+42116.0,usa,South,Texas,,98842.0
+19643.0 INR,USA,Central,Florida,Los Angeles,55527.0
+3245.0,USA,South,Georgia,New York,48026.0
+6931.0,USA,,California,Houston,12174.0
+63418.0,USA,West,Florida,Atlanta,95670.0
+74537.0,USA,South,Illinois,Chicago,70000.0
+68287.0,USA,West  ,Texas,New York,46791.0
+40549.0,USA,East,Florida,New York,88819.0
+12640.0,USA,South,Georgia,Houston,17724.0
+37345.0,USA  ,Central,Florida,Houston,95229.0
+54273.0,USA,Central,Illinois,Los Angeles,67443.0
+60640.0,USA  ,Central,Georgia,Los Angeles,46609.0
+70515.0,USA,East,Ohio,Columbus,36145.0
+,USA,East,,New York,52601.0
+43086.0,USA,Central,Washington,New York,22352.0
+92348.0,usa,South,Illinois,Chicago,70000.0
+37133.0,USA,east,Ohio,Chicago,98894.0
+84233.0,USA,East,,Columbus,46073.0
+96372.0,USA,West,Georgia,Los Angeles,75006.0
+40954.0,USA,East,Washington,Seattle,83473.0
+80898.0,USA,Central,Washington,Chicago,91567.0
+92914.0,USA,West,ohio,Chicago,47350.0
+42640.0,USA,West,Florida,New York,36644.0
+18455.0,USA  ,East,Texas,seattle,27428.0
+19553.0,USA,West,Texas,Miami,72872.0
+76823.0,USA,South,New York,Los Angeles,54874.0
+84421.0,USA,West,Texas,Columbus,75823.0
+40364.0,USA,central,California,Houston,43844.0 INR
+14382.0 INR,USA,East,Illinois,atlanta,25257.0
+14483.0,USA,Central,Georgia,Columbus,24311.0
+36210.0 INR,USA,West,Washington,Chicago,44463.0
+21039.0,USA,East,Illinois,Chicago,13584.0
+66246.0,USA,West,California,Houston,58349.0
+55002.0,USA,,georgia,Chicago,70548.0
+269.0,usa,west,New York,Seattle,53050.0
+36284.0,USA,West,Florida,New York,50437.0
+24830.0,USA,East  ,Florida,Atlanta,89327.0
+77602.0,USA,East,Florida,Columbus,95726.0
+64410.0,USA,East,Illinois,Miami,58754.0
+8001.0 INR,USA,South,California,New York,38655.0
+11799.0,USA,East,Ohio,columbus,36145.0 INR
+77471.0,USA  ,West,Illinois,Houston,43095.0
+45310.0,USA,Central,,Los Angeles,67443.0
+75886.0,USA,central,Georgia,Seattle,44701.0
+39192.0 INR,USA,East,Washington,Columbus,28775.0
+98221.0,USA,West,Florida,New York,88784.0
+2290.0,USA,West,Illinois,Chicago,49489.0
+31088.0 INR,USA,Central,Washington,Chicago,21272.0
+14709.0,USA,Central,Florida,Los Angeles,55527.0
+17673.0,USA,South,Florida,Los Angeles,93188.0
+97388.0,USA,South,Ohio,New York,24314.0
+16115.0,USA,East,Florida,Houston,83160.0
+84116.0,USA,East,Georgia,Miami,20891.0
+7049.0,,East,Illinois,Atlanta,57315.0
+89855.0 INR,USA,Central,Illinois,Chicago,52436.0
+79243.0,USA,East,Washington,Chicago,36978.0
+74625.0,USA,West,Ohio,Los Angeles,42077.0
+68082.0,USA,East,Illinois,Miami,58754.0
+63382.0,USA,South,Georgia,Chicago,43955.0
+60069.0,USA,East,Washington,Columbus,28775.0
+18961.0,USA,South,Ohio,Seattle,55270.0
+10488.0,USA,Central,Ohio,Seattle,93461.0
+58018.0,usa,Central,New York,Miami,66033.0
+42614.0,,Central,Georgia  ,Houston,22032.0
+68292.0,USA,Central,Georgia,Atlanta,39312.0
+,USA,East,,New York,74011.0
+95516.0,USA,Central,Georgia,,76680.0
+52905.0,USA,Central,georgia,Houston,32033.0
+24924.0,USA,East,Florida,Miami,87526.0
+99358.0,USA,East,New York,New York,26688.0
+36197.0,USA,South,Florida,Seattle,56385.0
+26931.0,USA,Central,Illinois,Miami,26682.0
+67222.0,USA,Central,Illinois,Seattle,71873.0
+99390.0,USA,West,Illinois,Miami,93479.0
+33766.0,USA,East,Washington,Los Angeles,28844.0
+99372.0,USA,Central,Florida,Miami  ,83899.0
+95666.0 INR,,Central,California,Houston,68328.0
+92101.0,USA,Central,Illinois,Miami,26682.0
+96673.0,USA,Central,Ohio,Atlanta,91062.0
+58787.0,,South,California,Columbus,47104.0
+27423.0,USA,East,Georgia,Miami,51534.0
+95797.0,USA,South,New York,Houston,11720.0
+18667.0,USA,Central,Florida,Columbus,12296.0
+60584.0,USA,South,Florida,Atlanta,53917.0
+13063.0,USA,South,New York,Houston,40413.0
+670.0,USA,West,Texas,Columbus,40059.0
+18989.0,USA  ,Central,Washington,Columbus,86607.0
+81144.0,USA,West,Washington,Miami,53410.0
+72605.0,USA,West  ,Illinois,Seattle,
+95818.0,USA,south,Ohio,Seattle,55270.0
+49439.0,USA,East,New York,Chicago,95964.0
+33587.0,USA,,Georgia  ,New York,97518.0 INR
+38752.0,usa,West,Georgia,Seattle,12553.0
+92489.0,,South,Texas  ,Miami,98842.0
+2119.0,USA,Central,,Miami,83899.0
+39028.0 INR,USA,South,Ohio,New York,47209.0
+22382.0,USA,South,Texas  ,Los Angeles  ,52538.0
+54656.0,USA,Central,Georgia,Houston,72419.0
+52329.0,USA,West,California,Columbus,25653.0
+8686.0,USA,,Washington,Columbus,91960.0
+83793.0,USA,South,Texas,Houston,81659.0 INR
+55505.0,USA,South,Georgia,Columbus,19222.0
+79673.0 INR,USA,West,Florida,Chicago,65009.0
+65659.0,USA,Central,Texas,houston,66629.0
+4166.0,USA,Central,Florida,Miami,20943.0
+4088.0,USA,East,Illinois,Los Angeles,38780.0
+20173.0,USA,East,Ohio,New York,
+59836.0,USA,Central,Florida,Los Angeles,81994.0
+20376.0,USA,West,Washington,Los Angeles,53257.0
+62123.0,usa,West,Ohio,Houston,48455.0
+17030.0,usa,West,Florida,Los Angeles,20155.0
+,USA,West,Georgia,Atlanta,31383.0 INR
+32785.0,USA,Central,Washington,Atlanta,95890.0
+16118.0,USA,South,Ohio,Chicago,17165.0
+90180.0,USA,West,ohio,Columbus,56447.0
+17902.0 INR,USA,West,Florida,New York,50437.0 INR
+94057.0,USA,West,Texas,Atlanta,99700.0
+30077.0,USA,Central,Georgia  ,Seattle,85342.0
+8877.0,USA,East,Texas,houston,22653.0
+93580.0 INR,USA,South,Illinois,,21900.0
+83176.0,USA,East,Florida,Los Angeles,64557.0
+86958.0,USA,Central,Georgia,Los Angeles,66669.0
+78751.0,USA  ,Central,Ohio,Atlanta,14564.0 INR
+20144.0 INR,USA,West,Texas,Miami,84041.0
+69816.0,usa,East,California,New York,90774.0
+18196.0,,South,Georgia,Los Angeles,24832.0
+,USA,,Illinois,Atlanta,25257.0
+70488.0,USA,East,Texas,New York,91015.0
+60484.0,USA,West,Ohio  ,Houston,48455.0
+65464.0,USA,South,New York,Miami,47568.0
+37309.0,USA,East,New York,Columbus  ,28389.0
+24204.0,,East,New York,Columbus,28389.0
+85900.0,USA,West,Florida,Chicago  ,86563.0
+60770.0,usa,West,New York,Miami,72105.0
+14555.0,USA,South,Ohio,Columbus,89589.0
+80452.0,USA,central,Texas,Chicago,62575.0
+9313.0,USA,South,New York,Miami,36013.0
+7256.0,USA,South,Ohio,Miami,49227.0
+56333.0,USA,West,Georgia,New York,42997.0
+24038.0,USA,West,Florida,Los Angeles,33812.0
+13716.0,usa,Central,Texas,Chicago,60465.0
+53475.0,usa,Central,Texas,Chicago,29205.0
+60974.0,USA,South,California,New York,28693.0
+60491.0,,Central,Ohio,Seattle,93461.0 INR
+46992.0 INR,USA,south,illinois,Houston,21900.0
+73003.0,,Central,Ohio,Atlanta,12470.0
+10196.0,USA,East,Washington,Seattle,83473.0
+43579.0 INR,USA,Central,California,Columbus,74103.0
+7037.0,USA,East,California,Atlanta,44478.0
+86117.0,,West,Texas,Miami,72872.0 INR
+32787.0,USA,West,Ohio,Houston,19103.0
+2573.0 INR,USA,Central,Washington,houston,16400.0
+59595.0,USA,East,Ohio,Los Angeles,68017.0
+79576.0,USA,South,Ohio,Atlanta,67106.0
+67626.0,USA,South,Illinois,Los Angeles,18800.0
+62293.0 INR,USA,Central  ,Georgia,Seattle,57748.0
+3031.0,,South,Texas,Houston,66866.0
+34437.0,USA,Central,new york,Columbus,47627.0
+39656.0,USA,Central,California,Miami,51331.0
+36876.0,USA,South,Texas  ,Miami,62412.0
+5402.0,USA,West,Illinois,Los Angeles,90386.0
+35737.0,USA  ,West,California,Houston,20101.0
+85670.0,USA,South,Washington,Los Angeles,19755.0
+11983.0,USA,South,Texas,Chicago,62435.0
+68058.0,USA,Central,Georgia,Miami,44786.0 INR
+93793.0,USA,West  ,Georgia,Atlanta,88781.0
+24023.0,USA,East,Washington,Los Angeles,28844.0
+8377.0,USA,East  ,California,New York,90774.0 INR
+79853.0,USA,West,Texas,Columbus,75823.0
+3357.0,USA,west,Illinois,atlanta,22928.0
+74805.0,USA,Central,Florida,Miami,92611.0
+75419.0,USA,West,Ohio,Columbus,47359.0
+64266.0 INR,USA,,Ohio,Los Angeles,35119.0
+11800.0,USA,Central,California,Miami,53714.0
+13314.0 INR,USA,East,,Miami,32179.0
+27636.0,USA  ,West,Washington,Houston,39400.0
+75581.0,USA  ,East,Florida,Houston,46659.0
+24779.0,USA,West,New York,Miami,12954.0
+73489.0,USA,South,Ohio,Houston,85039.0 INR
+84634.0,USA,Central,Ohio,Chicago,43928.0
+71629.0,,East,Florida,Miami,32179.0
+20336.0 INR,USA,West,Ohio,Columbus,82002.0
+44873.0,USA,West,Washington,los angeles,53257.0 INR
+60968.0 INR,USA  ,West,New York,New York,28184.0
+25539.0,USA,central,California,Atlanta,74592.0
+30030.0,USA,Central,New York,Los Angeles,26346.0
+21765.0,USA,East,California,Houston,22272.0
+94513.0,USA,Central,Ohio,Houston,90868.0
+72797.0 INR,USA  ,East,Illinois,Houston,57652.0 INR
+94435.0,USA,,California,Columbus,86042.0
+68650.0,USA,Central,Florida  ,Chicago,65450.0
+59270.0,USA  ,South,Florida,Houston,38177.0
+37529.0,USA,Central,Georgia,Los Angeles,33878.0
+4491.0,USA,East,Ohio,Columbus,61944.0
+88292.0 INR,USA,Central,Georgia,Los Angeles,46609.0
+30718.0,USA,Central,Washington,Seattle,
+97347.0,USA,South,Georgia,Houston,69400.0
+99030.0,USA,east,California,Los Angeles,72498.0
+30134.0,USA,South,Washington,New York,91748.0
+37531.0,USA,South,California,Miami,37349.0
+41747.0,USA,East  ,Georgia,Chicago,93138.0
+86314.0,USA,East,Ohio,Columbus  ,61944.0
+47557.0,USA,South,Ohio,Atlanta,27616.0
+25134.0,USA,South,Florida,Chicago,28769.0 INR
+94958.0,USA,Central,Florida,Los Angeles,68904.0
+43758.0,USA,South,Florida,New York,67847.0
+49971.0,USA,South  ,Florida,Chicago,99564.0
+83004.0 INR,USA,South,New York,Miami,10772.0 INR
+29359.0,USA,South,Illinois,Miami,37494.0
+2851.0,USA,Central,Texas,Columbus,71254.0
+48763.0,USA,south,Ohio,Los Angeles,35632.0
+,USA,Central,Florida,,90478.0
+41557.0,USA,East,California  ,Seattle,53997.0
+13786.0,USA,East,Florida,Los Angeles,16840.0
+59758.0,USA,West,Florida,Atlanta,39842.0
+78398.0,USA,East,texas,Miami  ,57260.0
+55881.0,USA,South,New York,Columbus,41340.0
+34895.0 INR,USA,Central,Washington,Atlanta,67168.0
+21856.0,USA,South,Georgia  ,Houston,22559.0
+52969.0,USA,West,Illinois  ,seattle,33800.0 INR
+1905.0,,West,Illinois,Seattle,48639.0
+31055.0,USA,Central,Florida,Los Angeles,16440.0
+91140.0,USA,West,Illinois,Chicago,49489.0
+51791.0,USA,East  ,Georgia,Columbus,46073.0 INR
+50872.0,USA,Central  ,Illinois,New York,17255.0
+94340.0,USA,South,Florida,Miami,89452.0
+27404.0,USA,Central,Ohio,Columbus,24068.0
+66466.0,USA,East,Ohio,Atlanta,84273.0
+26953.0,USA,South,Florida,Chicago,28769.0
+36751.0,usa,West,Georgia,Columbus,97142.0
+56486.0,USA,Central,Texas,Columbus,71254.0
+82620.0,USA,East,Georgia,New York,10951.0
+,USA,South,Washington,Los Angeles,36680.0
+80607.0,USA,West,Florida,Chicago,86957.0
+97525.0,USA,East,Ohio,Los Angeles,73284.0
+84995.0,USA,South,Ohio,New York,48895.0
+35896.0,USA,West,Illinois,Los Angeles,19849.0
+89337.0,USA,Central,Georgia,Columbus,52000.0
+60299.0,USA,Central,Illinois,Los Angeles  ,48019.0 INR
+29550.0,USA,West,New York,New York,28184.0
+84518.0,USA,East,Texas,Atlanta,76752.0
+11807.0,USA,West,Illinois,Los Angeles,83525.0
+63175.0,USA  ,central,Florida  ,Miami,20943.0
+19133.0,USA,Central,Texas,New York,12767.0 INR
+13008.0,USA,South,Florida,New York,25728.0
+,,South,Illinois,Atlanta,23508.0
+23627.0,USA,South,Ohio,Columbus,89589.0
+81738.0,USA  ,East,,Seattle,83473.0
+60629.0,USA,West,California,Columbus,42145.0
+41825.0,USA,south,Texas,Chicago,87307.0
+41676.0,USA,Central,New York,,29401.0
+98600.0,USA,East,New York,Miami,92927.0
+62343.0,USA,Central,Georgia,Chicago,34045.0
+18375.0,USA,Central,Illinois,Seattle,71873.0
+86418.0,USA,West,New York,Seattle,
+73783.0,USA,East,California,Atlanta,22467.0 INR
+974.0,USA,Central,California,Los Angeles,75367.0
+28523.0,USA,South,Florida,Los Angeles,56135.0
+15048.0,USA,West,Texas,New York,26755.0
+70228.0,USA,East,Washington,houston,14212.0
+43929.0,USA,South,Florida,New York,32815.0
+,USA,East,Texas,Chicago,49397.0
+50182.0,USA,West  ,New York,New York,77894.0
+62724.0,USA,West,California,Columbus,92223.0 INR
+6846.0,USA,East,Ohio,Columbus,36145.0
+93585.0,USA,East,California,houston,75735.0
+92438.0,usa,Central,Illinois,Chicago,48657.0
+90053.0,USA,Central,Washington,Columbus,86607.0
+24193.0 INR,USA,West  ,georgia,Chicago,33083.0 INR
+54212.0,USA  ,South,,houston,
+25051.0,USA,East,New York,Miami,46181.0
+15274.0,USA,,Ohio,Columbus,22863.0
+97013.0 INR,USA,South,Ohio,New York,49708.0
+79134.0,USA,East,California,New York,67333.0
+32024.0,USA,Central,California  ,Miami,87901.0
+31022.0,USA,West,Florida,Los Angeles,
+91290.0,USA,South,Washington,Columbus,78386.0 INR
+80246.0,,East,Georgia,Miami,20891.0 INR
+13773.0,USA,West,Texas,Chicago,72320.0
+29260.0,USA,West,Washington,Chicago,49799.0
+96461.0,USA,South,Illinois,chicago,98209.0
+17246.0,,Central,California,Los Angeles,68249.0 INR
+47291.0,USA,South,New York,chicago,59950.0
+43749.0,USA,east,Ohio,Seattle,88879.0
+15405.0,USA,South,Texas,Los Angeles,24139.0
+,USA,West,Illinois,Chicago,49489.0
+42765.0,USA,Central,Georgia,Seattle,58600.0
+84928.0,USA,South,New York,Seattle,
+73934.0,USA,Central,California,Chicago,40957.0
+53233.0,USA,West,Florida,New York,50437.0
+35746.0,USA,West,Washington,Seattle,96334.0
+10896.0,USA,South,Ohio,,29420.0
+5058.0,USA,Central,New York,Miami,70820.0
+99564.0,USA,West,Ohio,columbus,82002.0
+53364.0,USA,South,New York  ,Los Angeles  ,54874.0
+84497.0,USA,South,Georgia,Houston,60413.0
+29314.0,USA,East,California,Los Angeles,74122.0
+88370.0,USA,,New York,Columbus,73837.0 INR
+63213.0,USA,East,New York,Miami,63848.0
+86077.0,USA,South,California,New York,38655.0
+28750.0,usa,South,Illinois,Columbus,35252.0
+36356.0,USA,South,Illinois,New York,37720.0
+85558.0,USA,West,Illinois,Miami,57484.0
+70909.0,USA,South,Ohio,Atlanta,15821.0
+79318.0,USA,South,Washington,Los Angeles,48630.0
+4886.0,USA,Central,California,Miami,53714.0
+88622.0,USA,,New York,Seattle,37423.0
+,USA,West,Florida,Chicago,61196.0
+38141.0,USA,South,new york,Miami,
+37206.0,USA,South,California,Seattle,44167.0
+99981.0,USA,West,California,Chicago,
+65393.0,usa,South,Georgia,Houston,22559.0 INR
+63116.0,USA,West,,Seattle,26206.0
+58925.0,USA,Central,Florida,Atlanta,30252.0
+57852.0,USA,East,Washington,Los Angeles,17336.0
+92992.0,USA,West,Florida,Atlanta,28590.0 INR
+63437.0,USA,West,New York,miami,72105.0
+93184.0,USA,Central,Illinois,Columbus,21433.0
+12835.0,USA,East,California,Los Angeles,57540.0
+97206.0,USA  ,East,New York,New York,23476.0
+99301.0,usa,South,California,Los Angeles,33033.0
+50951.0,USA,Central,New York,atlanta,90969.0
+72850.0,,Central,Texas,columbus,29689.0
+5963.0 INR,USA,West,California,Seattle,85564.0
+98378.0,USA,,Georgia,Seattle,22652.0
+16678.0,usa,Central,Georgia,Columbus,15756.0 INR
+28944.0,USA,Central,Texas,Los Angeles,20142.0
+16211.0,usa,central,Georgia,Los Angeles,79331.0
+76285.0,USA,west,Illinois,Miami,96944.0
+,USA,Central,New York,Columbus,14205.0
+74806.0,USA  ,West,Washington,los angeles,50063.0
+30416.0,USA,South,,Chicago,59950.0
+71342.0,,South,Florida,Houston,64811.0
+61043.0,USA,East,Illinois,Houston,57652.0
+70671.0,USA,Central,Georgia,Chicago,
+62089.0,USA,South,Florida,Chicago,48745.0 INR
+55996.0 INR,USA  ,East,New York,Miami,65234.0
+15750.0,USA,West,Illinois,Chicago,40065.0
+48008.0,USA,Central,Texas,Miami,96032.0
+46804.0,USA,South,Texas,Chicago,56365.0
+66059.0,USA,West,Florida,Chicago,65009.0
+64715.0,USA,East,Ohio,Seattle,43039.0
+22985.0,USA,South,Florida  ,Atlanta,83813.0
+73053.0 INR,USA,Central,Georgia,Chicago  ,70548.0
+,USA  ,West,California,Columbus,25653.0
+86976.0,USA,East,Georgia,Columbus,71833.0
+,USA,East,Ohio,Seattle,88879.0 INR
+91537.0,USA,Central,Ohio,Houston  ,90868.0
+44201.0 INR,USA,East,Illinois,Seattle,67068.0
+58174.0,USA,East,Florida,Houston,83160.0 INR
+42426.0 INR,USA,East  ,Georgia,Atlanta,42077.0
+40816.0,,West,Ohio,new york,75147.0
+14223.0,USA,East,New York,Seattle,15646.0
+47800.0,USA,East,Florida,Los Angeles,50449.0
+55636.0,USA,Central,California,Atlanta,59496.0
+,USA,West,,Atlanta,88781.0
+15446.0,USA,East,California,Chicago,47022.0
+,USA,Central,Washington,Columbus,98250.0
+80198.0,USA,East  ,Illinois,New York  ,39710.0
+49751.0,USA,South,Florida,Atlanta,94521.0
+27014.0,USA,East  ,Georgia,Houston,19579.0
+,USA,East,Florida,Houston,18352.0
+4106.0,USA,Central,Ohio,Atlanta,65116.0 INR
+82601.0,USA,South,Ohio,New York,70917.0
+,,West,Illinois,Miami,65846.0
+39121.0 INR,USA,South,Georgia,Chicago,43955.0
+16101.0 INR,usa,East,Illinois,Columbus,59454.0
+,USA,East,Texas,Houston,72822.0
+55155.0,USA,South,New York,Seattle,14103.0
+,USA,Central,California,Miami,53714.0
+78105.0,USA,South,new york,Seattle,14467.0
+52962.0,usa,Central,Washington,Columbus,54231.0
+91513.0,USA,East,New York,Houston,27940.0
+75716.0,USA,South,Ohio,Miami,93040.0
+23265.0,USA,East,Washington,Miami,19999.0
+26378.0,USA,East,Texas,Chicago,66181.0
+31435.0,USA,Central,Ohio,,14564.0
+98776.0,USA,Central,California,Atlanta,74592.0
+69813.0,USA,South,Washington,columbus,78386.0
+46735.0,USA,East,florida,New York,
+44171.0,USA,East,Florida,los angeles,
+84274.0,USA,South,New York,Miami,36013.0 INR
+65856.0,USA,East,Ohio,Seattle,90396.0
+33069.0,USA,South,Ohio,Houston,84336.0
+93507.0,USA,Central,florida,Los Angeles,68904.0
+68629.0,USA,West,Florida,Atlanta,20652.0 INR
+68090.0,USA,East,California,Atlanta,22467.0
+69490.0 INR,USA,West,california,Chicago,
+88697.0,USA,West,Ohio,Columbus,
+16484.0,USA,Central,New York,Houston,37521.0
+84440.0,USA,South,New York,Miami,72941.0
+30732.0,USA,,new york,Columbus,80035.0
+67972.0,USA,South,Georgia,Columbus,26260.0 INR
+90932.0,USA,Central,California,Columbus,28590.0
+92997.0,USA,Central,Illinois,Chicago,52436.0
+82504.0 INR,USA,south,Illinois,chicago,70000.0
+52703.0,USA,West,Georgia,Columbus,97142.0
+96031.0,USA,East,Illinois,Atlanta,19556.0
+10322.0,USA,Central,Washington,New York,84996.0
+42288.0 INR,USA,South,Florida,Miami,81102.0
+46771.0,USA,East,Ohio,New York,52601.0
+1372.0,USA,Central,New York,Chicago,29401.0
+23878.0 INR,USA,East,washington,Columbus,28775.0
+12756.0,,East,Georgia,Atlanta,17836.0
+24329.0,USA,Central,California,Houston,68328.0 INR
+45329.0,,East,Florida,Atlanta  ,71405.0
+19162.0,USA,Central,Georgia,Los Angeles,46609.0
+26507.0,USA,South,New York,Atlanta,61211.0
+90500.0,USA,South,,Houston,84336.0 INR
+,USA,South,Georgia  ,New York,30571.0
+13343.0,USA,East,,Los Angeles,34334.0
+79288.0,USA,East  ,Texas,Houston,67357.0
+47283.0,USA  ,Central,Illinois,Columbus,21433.0
+86774.0,USA,Central,New York,Columbus,14205.0
+54069.0,USA,South,New York,Columbus,58717.0
+93873.0,USA,East,California,Columbus,39127.0
+21556.0,USA,Central,Georgia,Seattle,57748.0
+70672.0,USA,West,Texas,Columbus,40059.0
+77426.0,USA,South,Ohio,Seattle,39979.0
+27435.0,USA,,New York,Houston,11720.0
+9744.0,,Central,Illinois,Columbus,17969.0
+,USA,Central,New York,Columbus,14205.0
+8879.0,USA,Central,Washington,Los Angeles,32427.0
+87244.0,usa,South,Texas,Chicago,62435.0
+65203.0,USA,West  ,California,Miami,63383.0
+17313.0,,Central,Texas,New York,23924.0
+33920.0,USA,Central,California,Chicago,65583.0
+17372.0,USA,East,Ohio,Miami,94645.0
+41922.0,USA,west,Georgia,Seattle,14121.0
+,USA,,Florida,Los Angeles,68904.0
+58097.0,USA,East,New York,New York,85396.0
+40797.0,USA,,Georgia,Miami,95460.0
+,USA,Central,New York,Houston,58608.0
+75514.0,USA,South,Georgia,Miami,45282.0
+53758.0,USA,Central,New York,,50537.0
+12136.0,USA,West,Florida,Atlanta,28590.0
+68706.0,USA,West,Georgia,Columbus,97142.0
+77085.0,USA  ,Central,Texas,Houston,66629.0
+36907.0 INR,USA,South  ,Texas,Chicago  ,23122.0
+99220.0,USA,,Texas,Miami,
+61523.0,USA,south,ohio,Chicago,17165.0
+72167.0,USA,South,New York,,14467.0
+65212.0,,South,Texas,Miami,98842.0 INR
+52851.0,USA,South,Ohio,Columbus,89589.0
+57005.0,USA,south,Ohio,Miami,93040.0
+44931.0,,West,California,Chicago,45073.0
+11800.0,USA,West,Georgia,Seattle,41276.0
+87726.0,USA,Central,california,,59496.0
+45017.0,USA,West  ,Florida,New York,36644.0
+35983.0,USA,East,Florida,Houston,46941.0
+78547.0,USA,West,New York,New York,28184.0
+93934.0,USA,West,Florida,New York,27997.0
+2771.0,USA,South,Georgia,,36035.0 INR
+46880.0,USA,East,Florida,Columbus,84487.0 INR
+47225.0,USA,South,texas,Columbus,56490.0 INR
+43880.0,USA,West,Texas,Miami,68652.0
+38497.0,,Central,Washington,Miami  ,64797.0
+52543.0 INR,USA,central,California,miami,87901.0
+22540.0,USA,central,Washington,Los Angeles,56269.0
+70081.0,USA,South,,,34608.0
+47254.0,USA,West,Washington,Columbus,91960.0
+16300.0,,East,Texas,New York,91015.0
+90629.0,USA,east,Texas,Los Angeles,78134.0
+61266.0 INR,,South,Washington,Los Angeles,89119.0
+6347.0,USA,South,Florida  ,Miami,
+61351.0,USA,West,Georgia,Columbus,97142.0
+47874.0,USA,West,Illinois,Seattle,48639.0
+,USA,West,Florida,Atlanta,
+12545.0,USA,East,new york,,95964.0
+29392.0,USA,East,Illinois,Chicago,49283.0
+88226.0,USA,Central,California,Houston  ,31773.0
+72844.0,USA,Central,Ohio,Atlanta,14564.0
+3145.0 INR,USA,West,Ohio,Seattle,83445.0
+27106.0,USA,East,Illinois,New York,74011.0
+82353.0,USA,South,Florida,Los Angeles,51587.0
+59256.0,USA,West,Illinois,Chicago,40065.0
+66518.0,USA,Central,Illinois,Chicago,29212.0
+11382.0,USA,South,California,Chicago  ,70913.0 INR
+34774.0,USA,West,,Los Angeles  ,15006.0
+20077.0,USA,Central,Florida,Chicago,84997.0
+21702.0 INR,USA,East,New York,Los Angeles,56525.0
+47201.0,USA,West,Washington,Houston,80178.0
+25788.0 INR,USA,South  ,Illinois,,15326.0
+10976.0,USA  ,East,Texas,Los Angeles,78134.0
+77856.0,USA,East,Texas,Los Angeles,28753.0
+15177.0,USA,Central,Georgia,Houston,67271.0
+37493.0,USA,west,Florida,New York,27997.0 INR
+68800.0,USA,Central,Georgia,Seattle,22652.0
+38753.0,USA,east,Florida,Miami,
+85543.0,USA  ,West,Ohio,Seattle,
+83827.0 INR,USA,East  ,,Los Angeles,34334.0
+60102.0,USA,South,New York,Columbus,94393.0
+91871.0,USA,Central,California,Los Angeles,63543.0
+32954.0,USA,East,Ohio,Atlanta,18379.0
+79069.0,USA,West,California,Columbus,44521.0
+54033.0,USA  ,Central,Illinois,Columbus,21433.0
+35288.0,USA,East,Illinois,Los Angeles,65179.0
+78670.0,USA,West,Ohio,Seattle,40537.0
+79342.0,USA,South,Washington,Houston,21069.0
+20637.0,USA,East,Florida,Houston,79582.0
+68619.0,USA,Central,Texas,Houston,73254.0
+48473.0,USA,South,Illinois,Houston  ,39437.0
+66430.0,USA,Central,New York,Chicago,11368.0
+126.0 INR,USA,Central,Georgia,Atlanta,94029.0
+70113.0,USA,central,Washington,Chicago,21272.0
+74277.0,USA,East,Florida,Seattle,65381.0 INR
+82579.0,USA,,Texas,Los Angeles,78134.0
+45150.0,USA,Central,California  ,Los Angeles,84095.0
+,USA,south,California,Chicago,70913.0
+33653.0,USA,South,Texas  ,Seattle,13746.0
+31955.0,USA,South,Ohio,Chicago,45389.0
+44918.0,USA,East,New York,Miami,46181.0
+15433.0,USA,South,,Los Angeles,33033.0
+3764.0,USA,West,Washington,Atlanta,54710.0
+10214.0 INR,USA,West,ohio,New York,75147.0
+20253.0,USA,West,California,Columbus,25653.0
+95109.0,USA,South,illinois,Houston,11787.0
+10246.0,USA,East,Illinois,Atlanta,95184.0
+84598.0,USA,West,Illinois,Seattle,61488.0
+91158.0,USA,,California,Los Angeles,26671.0
+27635.0,USA,Central,Washington,Seattle,30749.0
+85768.0,USA,East,California,Miami,66554.0
+27844.0,USA,West,,Houston  ,96403.0
+22838.0,USA,South,Illinois,Houston,43563.0
+11835.0,USA,West,New York,Atlanta  ,51195.0
+95162.0,USA,Central,Ohio,New York,81213.0
+76663.0,USA,Central,California,Atlanta,96019.0
+99318.0,USA,West,California,Columbus,92223.0
+34786.0,USA,East,texas,New York  ,87798.0
+56349.0,USA,East,Florida  ,Columbus,95726.0
+77172.0,USA,East,Texas,Columbus,16094.0
+8287.0,USA,West,Florida,Columbus,59668.0
+57572.0,USA,East,Texas,Chicago,49397.0 INR
+77102.0,USA,South,Texas,Atlanta,92920.0
+24537.0,USA,South,Washington,Atlanta  ,69151.0
+72983.0,USA,East,Florida,Los Angeles,36518.0
+92737.0,USA,South,Florida,Los Angeles,93188.0
+6123.0,USA,West,Florida,Los Angeles,31842.0
+80692.0,USA,West,Washington,Los Angeles,95196.0
+88410.0,USA,Central,California,,44446.0
+66591.0,USA,South  ,Florida,Seattle,75585.0
+55712.0,USA,South,Florida  ,New York,67847.0
+35931.0,USA,south,,Columbus,56490.0
